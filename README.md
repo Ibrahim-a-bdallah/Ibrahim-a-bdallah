@@ -12,10 +12,10 @@
     <td align="left">
       <h2>🌐 Social Info</h2>
       <a href="https://www.linkedin.com/in/ibraim-abdallah-b9ba92274/">
-        <img src="https://img.shields.io/badge/LinkedIn-Ibrahim%20Abdallah-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
       </a>
       <a href="mailto:ibrahimabdall691@gmail.com">
-        <img src="https://img.shields.io/badge/Email-ibrahimabdall691%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Gmail">
+        <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Gmail">
       </a>
     </td>
     <!-- Coding GIF (Right) -->
