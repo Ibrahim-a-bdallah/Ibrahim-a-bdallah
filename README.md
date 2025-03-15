@@ -25,7 +25,12 @@
   </tr>
 </table>
 <hr>
+## 👀 Profile Views  
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ibrahim-a-abdallah&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views" />
+</p>
+<hr>
 ## 🚀 Tech Stack  
 
 <p align="center">
