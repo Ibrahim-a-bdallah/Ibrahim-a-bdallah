@@ -50,3 +50,10 @@
   <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" alt="Tech Stack" width="50" />
 
 </p>
+
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
